@@ -1,10 +1,10 @@
 name: Metrics
 on:
-  # Met à jour tous les jours à minuit
+  # Met à jour les stats tous les jours à minuit
   schedule: [{cron: "0 0 * * *"}]
-  # Permet de lancer la mise à jour manuellement (bouton "Run workflow")
+  # Permet de le lancer manuellement
   workflow_dispatch:
-  # Met à jour quand vous faites une modification sur le dépôt
+  # Met à jour quand vous modifiez le dépôt
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,12 +14,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # C'est ici que le script va lire votre clé secrète
-          # Ne touchez pas à cette ligne !
-          token: ${{ secrets.Metrics-Token }}
-
-          # Vos réglages
-          user: BalkamFR  # <-- REMPLACEZ CECI par votre pseudo GitHub (sans majuscules)
+          # Ne touchez PAS à la ligne ci-dessous, elle va lire votre secret toute seule
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Votre pseudo est configuré ici :
+          user: BalkamFR
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
