@@ -16,7 +16,7 @@ jobs:
         with:
           # C'est ici que le script va lire votre clé secrète
           # Ne touchez pas à cette ligne !
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.Metrics-Token }}
 
           # Vos réglages
           user: BalkamFR  # <-- REMPLACEZ CECI par votre pseudo GitHub (sans majuscules)
