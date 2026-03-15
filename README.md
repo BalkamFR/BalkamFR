@@ -1,7 +1,6 @@
 <!-- HEADER ANIMÉ -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe0,100:7b5cfa&height=220&section=header&text=BalkamFR&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
 </div>
 
 <div align="center">
@@ -78,6 +77,16 @@
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BalkamFR&theme=tokyo-night&hide_border=true&area=true&custom_title=Activité%20des%20contributions" />
+
+</div>
+
+---
+
+### 🌆 Calendrier 3D des Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BalkamFR/BalkamFR/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/>
 
 </div>
 
