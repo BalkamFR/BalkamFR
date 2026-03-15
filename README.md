@@ -1,2 +1,1 @@
-![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=BalkamFR&show_icons=true&theme=jolly)
-
+[![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=BalkamFR&show_icons=true&theme=jolly&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/BalkamFR)
