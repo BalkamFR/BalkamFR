@@ -30,11 +30,10 @@ $ whoami
   BalkamFR — Développeur Full-Stack & Logiciel
 
 $ cat about.txt
-  🏫  Étudiant à l'École 42 Paris
+  🏫  Étudiant à l'École 42 Lyon
   💻  Passionné du bas niveau (C/C++) à l'interactif (Web)
   🔭  Actuellement : projets 42 + side projects
   🌱  En apprentissage constant
-  ⚡  Fun fact : je debug mieux la nuit
 ```
 
 <br clear="right"/>
