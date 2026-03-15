@@ -1,6 +1,6 @@
 <!-- HEADER ANIMÉ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe0,100:7b5cfa&height=220&section=header&text=BalkamFR&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe0,100:7b5cfa&height=220&section=header&text=Pacôme PILAZ&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
