@@ -26,3 +26,61 @@
 
 ### 👾 À propos de moi
 ```bash
+$ whoami
+  BalkamFR — Développeur Full-Stack & Logiciel
+
+$ cat about.txt
+  🏫  Étudiant à l'École 42 Paris
+  💻  Passionné du bas niveau (C/C++) à l'interactif (Web)
+  🔭  Actuellement : projets 42 + side projects
+  🌱  En apprentissage constant
+  ⚡  Fun fact : je debug mieux la nuit
+```
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Stack Technique
+
+**Langages & Logiciel**
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Développement Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Bases de données & Outils**
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+### 📊 Statistiques GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BalkamFR&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalkamFR&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BalkamFR&theme=tokyonight&hide_border=true" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BalkamFR&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b5cfa,100:00ffe0&height=100&section=footer" width="100%"/>
+</div>
