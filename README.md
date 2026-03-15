@@ -1,42 +1,25 @@
+<!-- Header animé -->
 <div align="center">
 
-<!-- Animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe0,100:7b5cfa&height=200&section=header&text=BalkamFR&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full-Stack%20%26%20Logiciel&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe0,100:7b5cfa&height=200&section=header&text=BalkamFR&fontSize=60&fontAlignY=38&desc=Développeur%20Full-Stack%20%26%20Logiciel&descAlignY=58&descAlign=50&fontColor=ffffff&animation=fadeIn" />
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=600&lines=Étudiant+à+l'École+42+Paris+◆;Full-Stack+%26+Software+Developer;C+%2F+C%2B%2B+%2F+Python+%2F+JavaScript;Bienvenue+sur+mon+profil+!+👋" alt="Typing SVG"/>
+</div>
 
-<br/>
+<div align="center">
 
-<!-- Social badges -->
-<a href="https://twitter.com/TonTwitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/TonLinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/École%2042-000000?style=for-the-badge&logo=42&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=BalkamFR&style=for-the-badge&color=00ffe0&label=VISITES"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&width=500&lines=Étudiant+à+École+42+Lyon+◆;Full-Stack+%26+Software+Developer;C+%2F+C%2B%2B+%2F+Python+%2F+JS+%2F+PHP)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<div align="center">
 
-### 👾 À propos de moi
-```bash
-$ whoami
-  BalkamFR — Développeur Full-Stack & Logiciel
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TonLinkedIn)
+&nbsp;
+[![42 Lyon](https://img.shields.io/badge/42_Lyon-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)](https://42lyon.fr)
 
-$ cat about.txt
-  🏫  Étudiant à l'École 42 Lyon
-  💻  Passionné du bas niveau (C/C++) à l'interactif (Web)
-  🔭  Actuellement : projets 42 + side projects
-  🌱  En apprentissage constant
-```
-
-<br clear="right"/>
+</div>
 
 ---
 
@@ -57,8 +40,8 @@ $ cat about.txt
 
 **Bases de données & Outils**
 
+![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -69,17 +52,20 @@ $ cat about.txt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BalkamFR&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalkamFR&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BalkamFR&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Stats" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalkamFR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BalkamFR&theme=tokyonight&hide_border=true" width="100%"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BalkamFR&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BalkamFR&theme=tokyonight&hide_border=true" alt="Streak"/>
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b5cfa,100:00ffe0&height=100&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b5cfa,100:00ffe0&height=100&section=footer" />
+
 </div>
