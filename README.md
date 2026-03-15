@@ -86,6 +86,6 @@
 <!-- FOOTER ANIMÉ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b5cfa,100:00ffe0&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=220&section=header&text=PacômePILAZ&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
