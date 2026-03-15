@@ -18,8 +18,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TonLinkedIn)
 &nbsp;
 [![42 Lyon](https://img.shields.io/badge/42_Lyon-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)](https://42lyon.fr)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=BalkamFR&style=for-the-badge&color=00ffe0&label=PROFILE+VIEWS)
 
 </div>
 
