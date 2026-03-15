@@ -1,16 +1,21 @@
+<!-- HEADER ANIMÉ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe0,100:7b5cfa&height=220&section=header&text=PacômePILAZ&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe0,100:7b5cfa&height=180&section=header&fontColor=ffffff&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&width=600&lines=Étudiant+à+École+42+Lyon+◆;Full-Stack+%26+Software+Developer;C+%2F+C%2B%2B+%2F+Python+%2F+JS+%2F+PHP;Toujours+en+train+de+coder+quelque+chose...)](https://git.io/typing-svg)
 
-# Pacôme Pilaz
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&width=600&lines=Étudiant+à+École+42+Lyon+◆;Full-Stack+%26+Software+Developer;C+%2F+C%2B%2B+%2F+Python+%2F+JS+%2F+PHP;Toujours+en+train+de+coder+quelque+chose...)](https://git.io/typing-svg)
+</div>
 
 <br/>
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pacôme-pilaz-831263197)
 &nbsp;
-[![42 Lyon](https://img.shields.io/badge/42_Lyon-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)](https://profile-v3.intra.42.fr/users/papilaz)
+[![42 Lyon](https://img.shields.io/badge/42_Lyon-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)]([https://42lyon.fr](https://profile-v3.intra.42.fr/users/papilaz))
 
 </div>
 
@@ -75,8 +80,10 @@
 
 </div>
 
+
 ---
 
+<!-- FOOTER ANIMÉ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b5cfa,100:00ffe0&height=120&section=footer" width="100%"/>
