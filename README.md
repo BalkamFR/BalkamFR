@@ -13,9 +13,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TonLinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pacôme-pilaz-831263197)
 &nbsp;
-[![42 Lyon](https://img.shields.io/badge/42_Lyon-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)](https://42lyon.fr)
+[![42 Lyon](https://img.shields.io/badge/42_Lyon-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)]([https://42lyon.fr](https://profile-v3.intra.42.fr/users/papilaz))
 
 </div>
 
