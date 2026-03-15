@@ -2,7 +2,12 @@
 <h3 align="center">Développeur Full-Stack & Logiciel</h3>
 
 <p align="center">
-  <em>Bienvenue sur mon profil GitHub ! Je suis passionné par le développement, du bas niveau (C/C++) à la création d'applications web interactives.</em>
+  <img src="https://img.shields.io/badge/42-%23000000.svg?style=for-the-badge&logo=42&logoColor=white" alt="École 42" height="30" style="vertical-align:middle;"/>
+  <span style="font-size: 1.2em; margin-left: 10px; vertical-align:middle;">Étudiant à <strong>École 42 Paris</strong></span>
+</p>
+
+<p align="center">
+  <em>Bienvenue sur mon profil GitHub ! Je suis passionné par le développement, du bas niveau (C/C++) à la création d'applications web interactives. Mon cursus à 42 me permet de renforcer mon autonomie et mon expertise technique.</em>
 </p>
 
 <p align="center">
