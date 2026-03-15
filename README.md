@@ -1,11 +1,10 @@
-<!-- HEADER ANIMÉ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=220&section=header&text=PacômePILAZ&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&width=600&lines=Étudiant+à+École+42+Lyon+◆;Full-Stack+%26+Software+Developer;C+%2F+C%2B%2B+%2F+Python+%2F+JS+%2F+PHP;Toujours+en+train+de+coder+quelque+chose...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=800&color=7aa2f7&center=true&vCenter=true&width=600&lines=Étudiant+à+École+42+Lyon+◆;Full-Stack+%26+Software+Developer;C+%2F+C%2B%2B+%2F+Python+%2F+JS+%2F+PHP;Toujours+en+train+de+coder+quelque+chose...)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +20,6 @@
 
 ---
 
-<!-- SNAKE ANIMATION -->
 <div align="center">
 
 <picture>
@@ -76,16 +74,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BalkamFR&theme=tokyo-night&hide_border=true&area=true&custom_title=Activité%20des%20contributions" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BalkamFR&theme=tokyo-night&hide_border=true&area=true&custom_title=Activité%20des%20contributions&v=1" />
 
 </div>
 
-
 ---
 
-<!-- FOOTER ANIMÉ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=220&section=header&text=PacômePILAZ&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer" width="100%"/>
 
 </div>
