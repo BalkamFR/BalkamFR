@@ -1,6 +1,6 @@
 <!-- HEADER ANIMÉ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe0,100:7b5cfa&height=220&section=header&text=PacômePILAZ&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=220&section=header&text=PacômePILAZ&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pacôme-pilaz-831263197)
 &nbsp;
-[![42 Lyon](https://img.shields.io/badge/42_Lyon-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)]([https://42lyon.fr](https://profile-v3.intra.42.fr/users/papilaz)
+[![42 Lyon](https://img.shields.io/badge/42_Lyon-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)]([https://42lyon.fr](https://profile-v3.intra.42.fr/users/papilaz))
 
 </div>
 
